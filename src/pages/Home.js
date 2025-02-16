@@ -76,13 +76,7 @@ const Home = () => {
       </div>
       <footer>
         <h4>
-          Built with 💚 by &nbsp;
-          <a
-            target='_blank'
-            href='https://vemula-karthik-portfolio.vercel.app'
-          >
-            Karthik
-          </a>
+          Built with ❤ by Madhu Naik
         </h4>
       </footer>
     </div>
